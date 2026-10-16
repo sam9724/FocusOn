@@ -1,0 +1,11 @@
+node_modules/
+.npm-cache/
+dist/
+coverage/
+android/
+ios/
+src-tauri/target/
+*.local
+test-results/
+playwright-report/
+reports/

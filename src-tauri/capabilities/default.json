@@ -1,0 +1,6 @@
+{
+  "identifier": "default",
+  "description": "Main application window with no file system, shell or network permissions.",
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}
